@@ -1,0 +1,15 @@
+F:\DEVELOPMENT\bank test project\bin\Debug\net9.0\bank test project.exe
+F:\DEVELOPMENT\bank test project\bin\Debug\net9.0\bank test project.deps.json
+F:\DEVELOPMENT\bank test project\bin\Debug\net9.0\bank test project.runtimeconfig.json
+F:\DEVELOPMENT\bank test project\bin\Debug\net9.0\bank test project.dll
+F:\DEVELOPMENT\bank test project\bin\Debug\net9.0\bank test project.pdb
+F:\DEVELOPMENT\bank test project\obj\Debug\net9.0\bank test project.GeneratedMSBuildEditorConfig.editorconfig
+F:\DEVELOPMENT\bank test project\obj\Debug\net9.0\bank test project.AssemblyInfoInputs.cache
+F:\DEVELOPMENT\bank test project\obj\Debug\net9.0\bank test project.AssemblyInfo.cs
+F:\DEVELOPMENT\bank test project\obj\Debug\net9.0\bank test project.csproj.CoreCompileInputs.cache
+F:\DEVELOPMENT\bank test project\obj\Debug\net9.0\bank test project.dll
+F:\DEVELOPMENT\bank test project\obj\Debug\net9.0\refint\bank test project.dll
+F:\DEVELOPMENT\bank test project\obj\Debug\net9.0\bank test project.pdb
+F:\DEVELOPMENT\bank test project\obj\Debug\net9.0\bank test project.genruntimeconfig.cache
+F:\DEVELOPMENT\bank test project\obj\Debug\net9.0\ref\bank test project.dll
+F:\DEVELOPMENT\bank test project\obj\Debug\net9.0\bank test project.sourcelink.json
